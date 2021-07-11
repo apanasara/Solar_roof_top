@@ -37,3 +37,13 @@ Welding done post galvanization can damage Zinc Coating, Hence, Welding should b
 2. before HDG, welding can be done, after HDG welding is prohibited
 3. after subsidy approval payment will be done (other then 10% down-payment)
 4. inverter make & panel make to be confirmed before purchase (payment of those items should be done only if make is freezed)
+
+## Tools
+
+1. Scan The Sun : Site Survey http://scanthesun.com/global/scanthesun.php
+2. FreeCAD : 3D Modeling
+3. CreO : 3D Modelling
+4. Staad.Pro V8i SS6 : Structural Analysis
+5. SkyCiv : Online Structural Analysis
+6. Shadow3D : https://drajmarsh.bitbucket.io/shadows3d.html Shadow Analysis
+7. Layout Optimizer : https://www.layopt.com/truss/ for Truss configuration Optimization
