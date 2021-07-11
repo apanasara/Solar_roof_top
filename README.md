@@ -29,7 +29,8 @@ Welding done post galvanization can damage Zinc Coating, Hence, Welding should b
 2. There will be 3 groundings (for Lighting arrestor, Inverter & Panel-Structure). Grounding pit should be atleast 1m away from each other.
 3. Inverter should be nearer as much as possible to avoide DC Losses & safety.
 4. Lighting Grounding Line should be in seprate conduite (High Current/Voltage)
-5. Joints in wiring should be avoided for Heat Losses
+5. Lightnigh Arrestor hould be firmly holdedwith structure otherwise It may struck on panel & cause for panel damage.
+6. Joints in wiring should be avoided for Heat Losses
 
 ## point to be agreed with solar installer agency for material delivery
 
