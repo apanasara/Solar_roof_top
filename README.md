@@ -71,3 +71,5 @@ Welding done post galvanization can damage Zinc Coating, Hence, Welding should b
 5. SkyCiv : Online Structural Analysis
 6. Shadow3D : https://drajmarsh.bitbucket.io/shadows3d.html Shadow Analysis
 7. Layout Optimizer : https://www.layopt.com/truss/ for Truss configuration Optimization
+
+![WalkWay](https://github.com/apanasara/Solar_roof_top/blob/main/Structure%20Design%20Journey/03%20Walk%20Way%20Single%20Raft%20(20deg%20South)/Drawing/South%20Solar%20Fix.STL)
